@@ -26,7 +26,7 @@ To build out a recipe page and get it looking as close to the desing as possible
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://iridiffinis.github.io/recipe-page-main/)
+- Solution URL: [recipe-page](https://iridiffinis.github.io/recipe-page-main/)
 
 ## My process
 
